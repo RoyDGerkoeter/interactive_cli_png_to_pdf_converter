@@ -7,3 +7,6 @@ venv/
 # Ein- und Ausgaben (bleiben lokal)
 *.png
 *.pdf
+
+# Claude Code lokale Einstellungen (nicht ins Repo)
+.claude/
